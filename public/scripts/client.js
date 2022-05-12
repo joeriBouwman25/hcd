@@ -51,6 +51,7 @@ const logKey = async (e) => {
   if (work) {
     play(0)
     toWork()
+    // letters=''
   } else if (home) {
     play(1)
     toHome()
