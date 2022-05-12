@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+  font-family: "dark";
+  src: url("/fonts/Sickness.ttf");
+}
+
+:root {
+  --headingColor: #e8eb45;
+  --border: #fff;
+  --input: #fff2fb;
+  --form: #fdedb950;
+}
+
+/* darkmode */
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background: url("/images/dark\ background.jpeg");
+    --font: "dark";
+    --headingColor: #ff0000;
+    --input: #6d1414;
+    --form: #4747479d;
+    --border: #000;
+  }
+} */
+
+body {
+  overflow-x: hidden;
+  background-image: url(/images/achtergrond.jpeg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: #797979;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-family: "dark";
+}
+
+h1 {
+  width: 100%;
+  margin: 0.5em 1em;
+  color: var(--headingColor);
+  font-size: clamp(1em, 3em, 4.5em);
+  font-family: var(--font);
+  text-shadow: 0px 3px 6px #0000005d;
+}
+
+h1::before {
+  content: url("/images/bier.png");
+  display: inline-block;
+  margin: 0.2em;
+}
+
+h1::after {
+  content: url("/images/bier.png");
+  display: inline-block;
+  transform: rotateY(180deg);
+  margin: 0.3em;
+}
+
+h2 {
+  margin-bottom: 0.6em;
+}
+
+section {
+  color: #bbbbbb;
+  background-color: #1f1f1fe5;
+  box-shadow: 0px 3px 6px #0000005d;
+  padding: 2em 3em;
+  border-radius: 0.3em;
+}
+
+section:first-of-type a,
+section:first-of-type span {
+  color: #56ad34;
+}
+
+section:nth-of-type(2) a,
+section:nth-of-type(2) span {
+  color: #3b93f8;
+}
+
+section:nth-of-type(3) a,
+section:nth-of-type(3) span {
+  color: #ef3737;
+}
+
+img:first-of-type {
+  width: 70%;
+  margin-top: 3em;
+  filter: drop-shadow(0px 3px 3px #1f1f1f85);
+}
+
+img:nth-of-type(2) {
+  position: absolute;
+  right: -50em;
+  transition: 2s;
+}
+
+.move {
+  right: -3em;
+  transition: 2s;
+}
+
+p {
+  max-width: 25vw;
+  font-size: 1.3em;
+  margin-bottom: 1.5em;
+}
+
+span {
+  font-weight: 900;
+  color: #e07007;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.5em;
+  background-color: #d3d3d3;
+  box-shadow: 0px 3px 6px #0000005d;
+  padding: 0.4em;
+  border-radius: 0.3em;
+}
+
+/* section {
+  width: 50%;
+  height: 60vh;
+  margin: 0 auto;
+} */
