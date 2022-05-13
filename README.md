@@ -222,7 +222,7 @@ Op de vragen die ik had gesteld kreeg ik de volgende antwoorden:
 ---
 
 **Gebruiker:** Marijn Meijles
-**Datum:** 28-04-2022
+**Datum:** 11-05-2022
 **Product:** Een Date picker gemaakt volgens exclusive design Principles voor Marijn Meijles
 
 #### Doel van de test:
