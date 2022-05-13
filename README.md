@@ -85,8 +85,29 @@ Trein reizen in plannen verandert van een frustrerende uitdaging naar een fluitj
 
 Zoals hierboven al een paar keer benoemt was een deel van de opdracht om tijdens het ontwerpen van de applicatie Exclusive Design principles toe te passen, maar wat zijn deze principes en wat houden deze in?
 
-De Exclusive Design Principles zijn het spiegelbeeld van Inclusive Design Principles die juist bedoeld zijn om zoe toegankelijk mogelijk te ontwerpen. Hieronder de principes op een rij:
+De Exclusive Design Principles zijn het spiegelbeeld van Inclusive Design Principles die juist bedoeld zijn om zo toegankelijk mogelijk te ontwerpen. Hieronder de principes op een rij:
 
 ![inclusive en exclusive design principels](/assets/exclusive%20design.png)
+
+### Study situation
+
+In plaats van dat je toegankelijk ontwerpt en rekening houdt met elke soort context waarin een gebruiker je applicatie kan gebruiken draaien we dit om naar een _Study Situation_.
+Dit houdt in dat we de situatie van de gebruiker goed gaan bestuderen. In het geval van Marijn bestuderen we zijn stoornis en hoe hij met deze stoornis een toepassing gebruikt.
+
+### Ignore Conventions
+
+Ignore Conventions is het tegenovergestelde van _Be Consistend_. In plaats van dat je een consistent ontwerp maakt waarbij elementen een vaste hierachie en stijl hanteren en patterns als vanzelf sprekend worden ervaren keer je dit voor exclusive design dus om.
+Is een pattern voor iedereen wel zo toegankelijk? In het geval van Marijn is de date picker pattern juist helemaal niet makkelijk te gebruiken. Door ignore conventions toe te passen wordt je gedwongen om buiten de box te denken en het zo wel makkelijk te maken voor Marijn.
+
+### Prioritise identity
+
+Deze design principle is de weerspiegeling van _Prioritise Content_. Waar je normaal gesproken de toegankelijkheid van content voorop zet doe je dat volgens dit principe juist niet. De content die je hebt moet zo toegankelijk mogelijk zijn voor die ene gebruiker, in dit geval dus Marijn. Om het voor Marijn zo toegankelijk mogelijk te maken kijk ik naar zijn identiteit en niet naar de content zelf. De content wordt dus gevormd naar Marijns identiteit en niet op toegankelijkheid
+
+### Add nonsense
+
+Tot slot is Add Nonsense het tegenovergestelde van Add Value. Add value stelt dat alles in een toepassing een meerwaarde moet hebben. Door dit om te keren en juist onzin toe te voegen kom je soms op unieke oplossingen.
+Zo heb ik in mijn toepassing voor Marijn nonsense toegevoegd in de vorm van audio. Wanneer Marijn een handeling uitvoerd wordt er een kort stukje afgespeeld uit een metal nummer, voor veel gebruikers complete onzin. In de situatie van Marijn verassend nuttig, naast dat het aansluit bij zijn liefde voor metal muziek krijgt hij feedback in de vorm van geluid. Wanneer Marijn zijn toetsenbord gebruikt draait hij vaak weg van zijn scherm, met de muziek heeft hij toch een bevestiging dat de handeling is uitgevoerd.
+
+## Testen
 
 ## Marijns Crazy Train
