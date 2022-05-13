@@ -1,139 +1,33 @@
 # Human Centered Design @cmda-minor-web 2021 - 2022
 
-Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.
+## De opdracht
 
-> What distinguishes Human-Centered Design from other problem-solving approaches is its obsessive focus on understanding the perspective of the person who experiences a problem, their needs, and whether the solution that has been designed for them is truly meeting their needs effectively or not. At its most effective, the very people who experience a problem the most are a constant part of the design process and when possible, become part of the design team itself. - [What Is Human-Centered Design?](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779)
+De opdracht die we kregen voor het vak Human Centred Design was om een exclusief design te maken voor een client. Iets wat tegenstrijdig is omdat op CMD normaliter gewenst is om zo inclusief te ontwerpen. Exclusief design houdt in dat je iets ontwerpt specifiek voor één persoon, het ontwerp sluit dus helemaal aan bij diegene zijn of haar wensen en behoeftes.
+Om dit te bereiken is het noodzakelijk om je gebruiker goed te kennen en te begrijpen. Doormiddel van meerdere tests leer ik mijn gebruiker beter kennen en kom ik op een uiteindelijk resultaat. Ook staat het gebruiken van _exclusive design principles_ centraal in deze opdracht, wat dit precies inhoudt vertel ik later meer over.
 
-Door regelmatig te testen met je doelgroep kom je tot een beter en passend ontwerp. 
-Een Frontend Designer en Developer heeft verstand van interactie, vormgeving én techniek. 
-Als je web technieken beheerst kun je je ideeën snel prototypen en testen in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
-        
-In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. 
-Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? 
-Wat voor principes heb je gebruikt en getest? En is het leuk?
+In mijn geval is de gebruiker waar ik voor heb ontworpen _Marijn Meijles_.
 
-## Opdracht
+In de opdracht omschrijving op github staat beschreven;
 
-### Ontwerpen met en voor echte mensen
+_"Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een briljante nerd. Hij doet al jaren met heel veel plezier mee aan deze opdracht. Marijn heeft een motorische stoornis. Hij gebruikt zijn computer dus anders dan wij. Hij heeft veel moeite met fijne motoriek. Hij gebruikt zijn toetsenbord om te navigeren, en in de Accessibility settings van zijn Mac heeft hij Sticky Keys aan staan."_
 
-Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. 
-Een echt mens. 
-Je moet je ontwerp 3 keer testen. 
-Door te testen en te itereren ga je je ontwerp verbeteren. 
-Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. 
-Een _exclusive design_ ... 
-Wie is deze persoon dan voor wie je dit gaat maken? 
-Wat vindt deze persoon leuk of juist niet? 
-En hoe bedient deze persoon een computer?
+vervolgens konden we uit twee ontwerp uitdagingen kiezen om voor Marijn op te lossen;
 
-- [Opdracht - Ontwerpen met en voor echte mensen](course/opdracht-human-centered-design.md)
+- Ontwerp een date picker voor Marijn
+  _Hij reist veel met de trein, en hij moet van tevoren aangeven welke trein hij wil nemen zodat er iemand is om hem te helpen met zijn rolstoel. Date-pickers zijn over het algemeen priegelig, en niet ontworpen voor iemand die afhankelijk is van zijn toetsenbord?_
 
-### Leerdoelen
+- Ontwerp een Drag & Drop lijst
+  _Hoe kun je een drag & drop lijst optimaliseren voor een gebruiker die afhankelijk is van zijn toetsenbord én motorisch gestoord is?_
 
-- _Leren hoe je (design) principles in een ontwerp kan toepassen._
-- _User needs begrijpen en gebruiken in je ontwerp._
-- _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
+Ik heb gekozen voor de eerste uitdaging namenlijk een date picker ontwerpen voor Marijn.
+Maar waar ga je beginnen met ontwerpen voor iemand die je nog nooit eerder hebt ontmoet?
 
-[Rubric](#rubric)
+## Wie is Marijn?
 
-## Planning & programma
+Via github wist ik dus dat Marijn een geniale developer is, al jaren mee doet aan de opdracht en een motorische stoornis heeft waardoor hij veel moeite heeft met fijne motoriek. Daarnaast wist ik dat hij zijn laptop bediend met zijn toetsenbord.
 
-| Planning  | Woensdag  |  Donderdag | Vrijdag  |
-|---|---|---|---|
-| [Week 1](#week-1---kickoff-en-aannames-testen)  | Kickoff, College exclusive design + Testen | College + Testen | Feedbackgesprekken |
-| [Week 2](#week-2---prototypen-en-testen)  | ~~Koningsdag~~  | College + Testen | Feedbackgesprekken  |
-| ~~Meivakantie~~ |   |  |   |
-| [Week 3](#week-3---prototypen-testen-en-reflecteren)  | College + Testen  |  College + Testen | Beoordelingsgesprekken  |
+Via studenten had ik meegekregen dat Marijn een fan is van metal muziek en graag darkmodus gebruikt op zijn laptop.
 
+Met de kennis die ik nu had ben ik een eerste prototype gaan maken die zich er op richtte om meer over Marijn te weten te komen.
 
-## Week 1 - Kickoff en aannames testen 
-
-Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en donderdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
-
-### Woensdag 20 april
-
-Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
-
-Daarna prototypen en testen.
-
-### Donderdag 21 april
-
-Donderdag begint de les met een college over testen. Deze les gaan we het artikelen [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
-
-Daarna prototypen en testen.
-
-### Vrijdag 22 april
-
-Feedbackgesprekken in groepen.
-
-
-## Week 2 - Prototypen en testen 
-
-Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? Woensdag is het koningsdag, dan is er geen les.
-
-### Donderdag 28 april
-
-Donderdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) en [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/) lezen.
-
-'s Middags ga je voor de tweede keer prototypen en testen.
-
-### Vrijdag 29 april
-
-Feedbackgesprekken in groepen.
-
-
-## Week 3 - Prototypen, testen en reflecteren
-
-In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de laatste sessie met je mens.
-
-### Woensdag 11 mei
-
-Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/)
-
-Daarna prototypen en testen.
-
-### Donderdag 12 mei
-
-Donderdag gaan we bevindingen van de tests bespreken. 
-
-Daarna prototypen en testen.
-
-### Vrijdag 13 mei
-
-Op vrijdag zijn de beoordelingsgesprekken. Je hebt dan een gesprek waarin we je vorderingen en bevindingen bespreekt. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. 
-
-
-
-## Rubric
-
-De opdracht wordt beoordeeld aan de hand van onderstaande rubric. Je moet slagen voor het criterium (middenkolom) om het vak te halen. 
-
-| Ontoereikend  | Criteria  |  Verbetering |
-|---|---|---|
-|  | Readme - In de beschrijving van het project staat de opdracht uitgelegd, is het probleem duidelijk beschreven en hoe het probleem is opgelost. | | 
-|  | Design Principles - Student laat zien hoe de Exclusive Design Principles zijn toegepast in het ontwerp. De principes study situation, prioritise identity, ignore conventions en add nonsense zijn goed uitgelegd. Aan de hand van de principes wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp. | | 
-|  | User Needs - Er is een user scenario geschreven dat aansluit bij de identiteit van de test persoon. Er is een duidelijk en volledig user scenario geschreven dat antwoord geeft op de 4 w-vragen: Who? What? How? en Why? | | 
-|  | Testen - Er is minimaal drie keer getest. Er is een verslaglegging van de tests gedaan waarin de test-opzet wordt behandeld en er is een duidelijke conclusie beschreven met do's en dont's over hoe je goed kan testen. | | 
-|  | Testresultaten - Aan de hand van de tests wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp of hoe dit een volgende keer beter of anders kan. | | 
-
-
-
-
-
-<!-- Add a link to your live demo in Github Pages 🌐-->
-
-<!-- ☝️ replace this description with a description of your own work -->
-
-<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
-
-<!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
-
-<!-- Maybe a table of contents here? 📚 -->
-
-<!-- How about a section that describes how to install this project? 🤓 -->
-
-<!-- ...but how does one use this project? What are its features 🤔 -->
-
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
-
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
+## Marijns Crazy Train
