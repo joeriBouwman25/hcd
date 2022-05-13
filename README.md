@@ -14,20 +14,24 @@ _"Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een br
 vervolgens konden we uit twee ontwerp uitdagingen kiezen om voor Marijn op te lossen;
 
 - Ontwerp een date picker voor Marijn
+
   _Hij reist veel met de trein, en hij moet van tevoren aangeven welke trein hij wil nemen zodat er iemand is om hem te helpen met zijn rolstoel. Date-pickers zijn over het algemeen priegelig, en niet ontworpen voor iemand die afhankelijk is van zijn toetsenbord?_
 
 - Ontwerp een Drag & Drop lijst
+
   _Hoe kun je een drag & drop lijst optimaliseren voor een gebruiker die afhankelijk is van zijn toetsenbord én motorisch gestoord is?_
 
 Ik heb gekozen voor de eerste uitdaging namenlijk een date picker ontwerpen voor Marijn.
 Maar waar ga je beginnen met ontwerpen voor iemand die je nog nooit eerder hebt ontmoet?
 
-## Wie is Marijn?
+## User Scenario: Wie is Marijn?
 
-Via github wist ik dus dat Marijn een geniale developer is, al jaren mee doet aan de opdracht en een motorische stoornis heeft waardoor hij veel moeite heeft met fijne motoriek. Daarnaast wist ik dat hij zijn laptop bediend met zijn toetsenbord.
+Via github wist ik dus dat Marijn een geniale developer is, al jaren mee doet aan de opdracht en een motorische stoornis heeft waardoor hij veel moeite heeft met fijne motoriek. Daarnaast wist ik dat hij zijn laptop bediend met zijn toetsenbord. Uit latere tests en van studenten kwam ik meer over Marijn te weten, deze kennis heb ik verwerkt in een user scenario.
 
-Via studenten had ik meegekregen dat Marijn een fan is van metal muziek en graag darkmodus gebruikt op zijn laptop.
+![Tux, the Linux mascot](/assets/marijn.jpeg)
 
-Met de kennis die ik nu had ben ik een eerste prototype gaan maken die zich er op richtte om meer over Marijn te weten te komen.
+**Gebruiker:** Marijn Meijles
+
+**Leeftijd:**
 
 ## Marijns Crazy Train
