@@ -28,9 +28,7 @@ Maar waar ga je beginnen met ontwerpen voor iemand die je nog nooit eerder hebt 
 
 Via github wist ik dus dat Marijn een geniale developer is, al jaren mee doet aan de opdracht en een motorische stoornis heeft waardoor hij veel moeite heeft met fijne motoriek. Daarnaast wist ik dat hij zijn laptop bediend met zijn toetsenbord. Uit latere tests en van studenten kwam ik meer over Marijn te weten, deze kennis heb ik verwerkt in een user scenario.
 
-![Afbeelding van Marijn](/assets/marijn.jpeg)
-
-### Gebruiker:
+![Afbeelding van Marijn](/assets/marijn.jpeg) ### Gebruiker:
 
 Marijn Meijles
 
