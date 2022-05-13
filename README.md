@@ -112,11 +112,43 @@ Zo heb ik in mijn toepassing voor Marijn nonsense toegevoegd in de vorm van audi
 
 Om tot een uiteindelijk exlcusive design te komen waren er drie test rondes met Marijn, de eerste keer was online, de andere twee keer waren op locatie. Aan de hand van de test resultaten werd de applicatie verder aangepast.
 
-### Week 1: Test plan
+### Test 1
 
 ---
 
 **Gebruiker:** Marijn Meijles
+**Datum:** 21-04-2022
+**Product:** Een Date picker gemaakt volgens exclusive design Principles voor Marijn Meijles
+
+#### Doel van de test:
+
+- Er achter komen wie Marijn is
+- Er achter komen hoe Marijn zijn keyboard gebruikt
+- Er achter komen welke toetsen Marijn voornamelijk gebruikt
+
+#### Opzet van de test:
+
+Ik wist dat Marijn van metal muziek houdt en dat hij het liefst in darkmodus werkt.
+De opdracht voor Marijn was dan ook om de lieflijke lichte modus te switchen naar een donkere metal modus.
+Een aantal toetsen zorgde dat de darkmodus werden geactiveerd, ondertussen werd op het scherm gelogd welke toetsen hij indrukte zodat ik goed kon zien wat er gebeurde.
+
+Mijn prototype zag er als volgt uit:
+
+![Prototypoe test 1](/assets/test%201%20lightmodus.png)
+![Prototypoe test 1](/assets/test%201%20darkmodus.png)
+
+Naast het stellen van persoonlijke vragen en de link naar het prototype krijgt Marijn geen informatie van mij. Hij moet zelf uitvinden hoe hij de app in darkmodus zet zodat ik goed kan zien welke handelingen hij invoert.
+
+De vragen die ik Marijn achteraf heb gesteld zijn:
+
+- Wat zijn je Hobby's?
+- Welke toetsen vindt je prettig om te gebruiken?
+- wat vindt je van het metal thema?
+- Op welke momenten gebruik je de trein?
+- Vanaf welk station reis je meestal?
+- Naar welk station reis je meestal?
+
+#### Resultaten
 
 ### Test 2
 
