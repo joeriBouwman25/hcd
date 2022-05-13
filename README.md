@@ -142,16 +142,141 @@ Naast het stellen van persoonlijke vragen en de link naar het prototype krijgt M
 De vragen die ik Marijn achteraf heb gesteld zijn:
 
 - Wat zijn je Hobby's?
-- Welke toetsen vindt je prettig om te gebruiken?
 - wat vindt je van het metal thema?
 - Op welke momenten gebruik je de trein?
 - Vanaf welk station reis je meestal?
 - Naar welk station reis je meestal?
+- Hoe vaak komt het voor dat je naaar een ander statin moet reizen?
+- op welk moment plan je jouw reis in?
 
 #### Resultaten
 
+De volgende informatie haalde ik uit test 1:
+
+- Wanneer hij een toets in drukt gebeurt het regelmatig dat hij perongeluk ook naast gelegen toetsen indrukt.
+- Toetsen die ook voor snel toetsen worden gebruikt zoals control en command zijn niet handig voor hem te gebruiken omdat hij gebruik maakt van sticky keys
+- Tab gebruikt hij eigenlijk nooit
+- Naast zijn toetsenbord gebruikt hij ook de trackpad.
+- De "g" toets om van modus te wisselen vond hij onlogisch
+- om te navigeren gebruikt hij de "H", "J", "K" en "L" toetsen
+
+Op de vragen die ik had gesteld kreeg ik de volgende antwoorden:
+
+- "ik heb geen tijd voor hobby's, maar ik houdt van lezen, bier drinken (ook met studenten), bandjes bezoeken en rommelen met computers"
+- "Ik doe dit al 10 jaar, ik heb wel genoeg metal thema's gezien"
+- "Als ik naar werk ga en naar huis"
+- "Eindhoven, daar woon ik"
+- "Amsterdam voor mijn werk"
+- "Ongeveer een keer per maand"
+- " Als ik naar werk ga de avond van te voren, ik moet dan rond half 10 in de trein zijn. Als ik naar huis ga dan 1 uur voor ik weg moet en als ik ergens anders heen ga is het afhankelijk van de situatie maar meestal dan ook de avond van te voren."
+
 ### Test 2
+
+---
+
+**Gebruiker:** Marijn Meijles
+**Datum:** 28-04-2022
+**Product:** Een Date picker gemaakt volgens exclusive design Principles voor Marijn Meijles
+
+#### Doel van de test:
+
+- Er achter komen of Marijn met mijn prototype gemakelijk een trein kan inboeken
+
+#### Aanpassingen
+
+Na aanleiding van de vorige test heb ik mijn prototype aangepast. Hierbij heb ik de exclusive design principles, _Ignore conventions_ en _Study situation_ toegepast.
+
+In de vorige test heb ik de situatie van Marijn kunnen bestuderen, hij gebruikt de trein eigenlijk op drie verschillende momenten:
+
+- Wanneer hij naar werk gaat
+- Waneeer hij naar huis gaat
+- Wanneer hij ergens anders heen moet reizen
+
+Een normale date picker werkt voor Marijn niet handig dus volgens het principe _ignore conventions_ heb ik de hele date picker er uit gegooid. in mijn prototype was het nu mogelijk door middel van de "H" en "J" toetsen trein reizen op de NS site weer te geven voor als hij van huis naar werk moest reizen. Met de "K" en "L" toetsen worden reizen van werk naar huis op de NS site weergegeven.
+
+![Prototype test 2](/assets/test%202.png)
+![Prototype test 2](/assets/test%202%20resultaat.png)
+
+#### Opzet van de test:
+
+Ook deze keer gaf ik Marijn enkel de link van mijn prototype en geen verdere uitleg. Dit om te kijken of mijn prototype gelijk duidelijk voor hem was. Na afloop zou ik de volgende vragen stellen:
+
+- Werkt dit naar wens?
+- Wat is jouw feedback?
+
+#### Resultaten
+
+De volgende informatie haalde ik uit test 2:
+
+- Het was voor hem gemakkelijk om de trein tijden te zien.
+- De app sloot weinig bij hem aan
+- Er konden zeker nonsense toegevoegd worden
+
+Op de vragen die ik had gesteld kreeg ik de volgende antwoorden:
+
+- "Het werkt en je bent goed op weg"
+- "Waarom "H", "J", "K" en "L" het kunnen net zo goed andere knoppen zijn."
 
 ### Test 3
 
-## Marijns Crazy Train
+---
+
+**Gebruiker:** Marijn Meijles
+**Datum:** 28-04-2022
+**Product:** Een Date picker gemaakt volgens exclusive design Principles voor Marijn Meijles
+
+#### Doel van de test:
+
+- Er achter komen of Marijn of mijn aanpassing een verbetering zijn
+- Er achter komen wat hij van de nonsense vind
+- Er achter komen of er nog meer te verbeteren valt
+
+#### Aanpassingen
+
+Na aanleiding van test 2 heb ik mijn prototype verder aangepast. Hierbij heb ik de exclusive design principles, _Add nonsense_ en _Prioritise Identitiy_ toegepast.
+
+In de Vorige test kwam naar voren dat ik goed op weg was maar hij de keuze van mijn knoppen niet helemaal kon volgen. Daarom heb ik van de vier opties die er eerst waren de knoppen verder uitgebreid naar het hele toetsenbord. Toetsen voor sneltoetsen heb ik hierbij niet opgenomen omdat hij deze nodig heeft voor het navigeren door zijn computer.
+
+Ik heb als het ware het toetsen bord opgedeelt in drie grote knoppen:
+-rechts (omdat hij daar het makkelijkst zijn laptop bediend) voor het inplannen van een reis van werk naar huis
+
+- midden voor het inplannen van een reis van huis naar werk
+- links voor het inplannen van een andere reis
+
+Ik heb nonsense toegevoegd in de vorm van audio, uit test 2 bleek dat Marijn vaak wegkijkt van zijn scherm nadat hij knoppen heeft ingetoetst. Daarom heb ik als feedback op de knoppen stukjes metal muziek laten afspelen zodat hij doorheeft dat de handeling is gelukt. hierbij pas ik ook gelijk Prioritse Identitity toe omdat de metal muziek bij Marijn aansluit en de content op een voor hem bruikbare manier is ingesteld.
+
+![Prototype test 3](/assets/test%203.png)
+![Prototype test 3](/assets/test%203%20resultaat.png)
+
+#### Opzet van de test:
+
+Deze laatse keer gaf ik Marijn ook enkel de link van mijn prototype en geen verdere uitleg.
+Ik had geen vragen meer voor Marijn buiten de feedback op het prototype.
+
+#### Resultaten
+
+De volgende informatie haalde ik uit de laatste test:
+
+- De juiste treinreizen vinden was enorm makkelijk en had dit zo gedaan
+- hij moest erg lachen om de audio fragmenten, het maakte de ervaring plezierig voor hem
+
+De feedback van Marijn was:
+
+- "Het werkt"
+- "Je hebt veel ruimte nodig om uit te leggen hoe het werkt"
+
+### Laatste aanpassingen
+
+De laatste aanpassingen die ik nog heb doorgevoerd is de legenda voor het selecteren van een reis verkleinen, verdere feedback had Marijn niet.
+
+Wat ik zelf nog zie als een verbetering is in plaats van doorlinken naar de NS website de gewenste informatie op de zelfde pagina laten zien. Hierdoor hoeft Marijn niet meer de website weg te klikken om iets anders op te zoeken. Helaas heb ik hier geen tijd meer voor, het zou een mooie upgrade zijn op een later moment.
+
+![Prototype test 4](/assets/test%204.png)
+
+## Reflectie
+
+Normaal gesproken ontwerp ik voor een zo een breed mogelijke gebruikers groep, deze keer ontwierp ik voor 1 persoon. Deze ervaring vond ik heel interessant omdat je echt diep in ging op deze persoons wensen en behoeftes. Juist door je niet aan traditionele principes te houden werd je geforceerd om buiten de lijntjes te denken wat resulteerde in enorm creatieve oplossingen.
+
+Nooit had ik van te voren kunnen bedenken dat je toetsenbord opdelen in drie grote buttons om mee te navigeren handig zou zijn voor een gebruiker. Hoe onlogisch het ook lijkt is het voor Marijn juist super bruikbaar. Deze bevindingen zijn een grote bron van inspiratie waar ik waarschijnlijk nog vaak aan terug zal denken.
+
+Ik kijk terug naar een mooi project waar ik veel heb geleerd over verschillende gebruikers en hoe voor mij simpele dingen voor andere gebruikers zoals Marijn een enorm obstakel zijn. In dit project ben ik veel uit mijn comfort zone getreden en echt een ander product neer gezet als dat ik gewent ben. Een unieke en leuke ervaring!

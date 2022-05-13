@@ -94,7 +94,7 @@ section:nth-of-type(3) span {
 }
 
 img:first-of-type {
-  width: 70%;
+  width: 60%;
   margin-top: 3em;
   filter: drop-shadow(0px 3px 3px #1f1f1f85);
 }
