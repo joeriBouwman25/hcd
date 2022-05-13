@@ -110,4 +110,16 @@ Zo heb ik in mijn toepassing voor Marijn nonsense toegevoegd in de vorm van audi
 
 ## Testen
 
+Om tot een uiteindelijk exlcusive design te komen waren er drie test rondes met Marijn, de eerste keer was online, de andere twee keer waren op locatie. Aan de hand van de test resultaten werd de applicatie verder aangepast.
+
+### Week 1: Test plan
+
+---
+
+**Gebruiker:** Marijn Meijles
+
+### Test 2
+
+### Test 3
+
 ## Marijns Crazy Train
