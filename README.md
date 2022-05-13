@@ -28,7 +28,7 @@ Maar waar ga je beginnen met ontwerpen voor iemand die je nog nooit eerder hebt 
 
 Via github wist ik dus dat Marijn een geniale developer is, al jaren mee doet aan de opdracht en een motorische stoornis heeft waardoor hij veel moeite heeft met fijne motoriek. Daarnaast wist ik dat hij zijn laptop bediend met zijn toetsenbord. Uit latere tests en van studenten kwam ik meer over Marijn te weten, deze kennis heb ik verwerkt in een user scenario.
 
-### Mijn gebruiker: Wie is Marijn?
+### **Mijn gebruiker:** Wie is Marijn?
 
 ![Afbeelding van Marijn](/assets/marijn.jpeg)
 
@@ -48,7 +48,7 @@ Ook resulteert zijn stoornis zich in moeite hebben met spraak, ondanks dit laat 
 
 Zoals hierboven benoemd gebruikt Marijn zijn laptop op een andere manier dan hoe deze oorspronkelijk is ontworpen. Hij gebruikt enkel zijn linkerarm arm om zijn toetsenbord en trackpad te bedienen. De rechterkant van zijn toetsenbord is voor hem daarom makkelijker te gebruiken. Ook maakt hij gebruik van sticky keys om _short keys_ te kunnen uitvoeren. Tot slot gebruikt hij _H_, _J_, _K_ en _L_ om te navigeren op een pagina.
 
-### Marijns Wensen: Wat wilt hij graag?
+### **Marijns Wensen:** Wat wilt hij graag?
 
 Zoals beschreven in de opdracht wilt Marijn een date picker kunnen gebruiken om zijn trein reis in te plannen. Date pickers zijn vaak "priegelig" ontworpen en voor Marijn dus een obstajkel om te gebruiken.
 
@@ -61,7 +61,7 @@ _"Dat heb ik nu al heel vaak gezien"_
 
 Hij wilt dus een Date picker waarop hij op een makkelijke manier zijn trein reisen kan inplannen.
 
-### De oplossing: Hoe kan Marijn de applicatie gebruiken?
+### **De oplossing:** Hoe kan Marijn de applicatie gebruiken?
 
 Omdat Marijn op een makkelijke manier zijn treinreizen wilt kunnen inplannen heb ik de applicatie zo simpel mogelijk gehouden. Om goed aan te sluiten bij zijn wensen heeft de applicatie drie functionaliteiten:
 
@@ -75,7 +75,7 @@ Om handelingen die fijne motoriek te vereisen te elimineren is het toetsen bord 
 - Wanneer hij het midden van het toetsenbord indrukt wordt hij doorgelinkt naar de NS site en ziet hij de treinen van over een uur van Amsterdam naar Eindhoven.
 - Wanneer hij aan de linkerkant van zijn toetsenbord iets indrukt wordt hij doorgelinkt naar de homepagina van de NS om zelf een trein in te plannen.
 
-### Exclusief Design: Waarom zou Marijn de applicatie gebruiken?
+### **Exclusief Design:** Waarom zou Marijn de applicatie gebruiken?
 
 De applicatie is gemaakt volgens Exclusive Design Principles, dit resulteert er in dat de applicatie enkel en alleen voor Marijn is gemaakt, er is tot in de puntjes rekening gehouden met zijn wensen en behoeftes zodat hij in een gepersonaliseerde app op een voor hem zo makkelijk mogelijke manier zijn doel kan bereiken.
 
