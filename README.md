@@ -81,4 +81,12 @@ De applicatie is gemaakt volgens Exclusive Design Principles, dit resulteert er 
 
 Trein reizen in plannen verandert van een frustrerende uitdaging naar een fluitje van een cent dat hij met plezier uitvoert.
 
+## Exclusive Design Principles
+
+Zoals hierboven al een paar keer benoemt was een deel van de opdracht om tijdens het ontwerpen van de applicatie Exclusive Design principles toe te passen, maar wat zijn deze principes en wat houden deze in?
+
+De Exclusive Design Principles zijn het spiegelbeeld van Inclusive Design Principles die juist bedoeld zijn om zoe toegankelijk mogelijk te ontwerpen. Hieronder de principes op een rij:
+
+![inclusive en exclusive design principels](/assets/exclusive%20design.png)
+
 ## Marijns Crazy Train
